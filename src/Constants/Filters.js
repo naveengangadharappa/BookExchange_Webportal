@@ -1,0 +1,61 @@
+const Filter={
+    data:[
+        {
+            sector:"PUC",
+            year:[1,2],
+            sem:[1,2],
+            branch:["PCMC","PCMB","PCME","HEBA","HEBS",""],
+            university:["PUC"],
+            state:["Karnataka"]
+        },
+        {
+            sector:"DIPLOMA",
+            year:[1,2,3],
+            sem:[1,2,3,4,5,6],
+            branch:["CSE","IT","EE","EC","TEL COM","MECH","AUTO","CIVIL","MECHATRONIC"],
+            university:["DTE"],
+            state:["Karnataka"]
+        },
+        {
+            sector:"BSC",
+            year:[1,2],
+            sem:[1,2],
+            branch:["PCMC","PCMB","PCME","HEBA","HEBS",""],
+            university:["PUC"],
+            state:["Karnataka"]
+        },
+        {
+            sector:"B.E",
+            year:[1,2,3,4],
+            sem:[1,2,3,4,5,6,7,8],
+            branch:["CSE","IT","EE","EC","TEL COM","MECH","AUTO","CIVIL","MECHATRONIC"],
+            university:["VTU","ATANOMOUS","BGLOR UNI"],
+            state:["Karnataka"]
+        },
+        {
+            sector:"B.A",
+            year:[1,2],
+            sem:[1,2],
+            branch:["PCMC","PCMB","PCME","HEBA","HEBS",""],
+            university:["PUC"],
+            state:["Karnataka"]
+        },
+        {
+            sector:"MBBS",
+            year:[1,2],
+            sem:[1,2],
+            branch:["PCMC","PCMB","PCME","HEBA","HEBS",""],
+            university:["PUC"],
+            state:["Karnataka"]
+        },
+        {
+            sector:"BBA",
+            year:[1,2],
+            sem:[1,2],
+            branch:["PCMC","PCMB","PCME","HEBA","HEBS",""],
+            university:["PUC"],
+            state:["Karnataka"]
+        }
+    ]
+}
+ export default Filter
